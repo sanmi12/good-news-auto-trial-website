@@ -1,0 +1,33 @@
+#a {
+    text-align: center;
+}
+#b {
+    text-align: center;
+}
+#c {
+    text-align: center;
+}
+form {
+text-align: center;
+}
+.container{
+border: 1px solid black;
+width: 400px;
+height: 400px;
+margin: auto;
+background: rgb(22, 211, 186);
+}
+#ayo {
+margin-left: 250px;
+}
+#seyi {
+    margin-right: 270px;
+}
+#ade {
+    margin-left: 260px;
+    
+}
+#sa {
+    margin-right: 290px;
+   
+}

@@ -1,0 +1,71 @@
+
+.container {
+    border: 1px solid black;
+    background: #f0f2f5;
+    /* width: 400px; */
+    /*height: 40vh; */
+   /* width: 260px; */
+
+    height: 280px;
+    background: #fff;
+    box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.13);
+    border-radius: 20px;
+    
+
+}
+.top {
+color: black;
+text-align: center;
+border-radius: 0px;
+}
+.div container
+}
+div input {
+googl color: border: font-size: 300px
+
+}
+body input {
+    padding: 6px;
+    /*width: 90%;*/
+    
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+div a {
+    margin-left: 40px;
+    /*width: 358px;*/
+    margin-bottom: 10px;
+    background:#13160100;
+    border: none;
+    border-radius: 10px;
+}
+div h3 {
+
+    margin-left: 20px;
+    /*width: 200px; */
+    margin-left: 30px;
+
+   
+}
+/*
+div span {
+    margin-left: 120px;
+}
+div input {
+    margin-left: 5px;
+} */
+.container a {
+    border: 1px solid rgb(15, 1, 19);
+    padding: 5px;
+    border-radius: 1px;
+    text-decoration: none;
+    /*width: 40px;*/
+    color: black;
+    width: 50px;
+
+}
+#you {
+    color: green;
+    padding: 10px;
+}

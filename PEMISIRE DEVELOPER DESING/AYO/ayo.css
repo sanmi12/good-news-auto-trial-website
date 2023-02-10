@@ -1,0 +1,882 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    width: 100vw;
+    height: 100vw;
+}
+
+img {
+    margin-left: 900px;
+}
+
+#toy50 {
+    /* border: 1px solid black; */
+    width: 1000px;
+    height: 500px;
+    margin-top: 50px;
+}
+
+#toy50 p {
+    font-size: 40px;
+    margin-left: 150px;
+}
+
+#flex5 {
+    display: flex;
+    /* border: 1px solid black; */
+    width: 2500px;
+    height: 900px;
+    margin: auto;
+}
+#sa {
+    color: indianred;
+}
+
+#san {
+    color: aquamarine;
+}
+#sad {
+    color: blueviolet;
+}
+#saz {
+    color: coral;
+}
+#saw {
+    color: rgb(142, 16, 173);
+}
+#sac {
+    color: mediumblue;
+}
+#www {
+    
+    background-color: brown;
+    /* border-radius: 400px; */
+    margin: auto;
+    border: 1px solid black;
+    width: 3000px;
+    height: 20px
+    
+}
+
+
+
+
+
+#flex2 {
+    display: flex;
+}
+#toy1 img {
+    
+    
+}
+
+#logo img {
+    width: 150px;
+    height: 150px;
+}
+#toy1 {
+    display: flex;
+    /* border: 1px solid black; */
+    height: 100px;
+    justify-content: space-between;
+    width: 800px;
+    margin: auto;    
+
+}
+
+#toy1 li {
+    font-size: 40px;
+    
+    
+}
+
+#flex1 {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 70px;
+    
+}
+
+
+#toya {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    
+
+    
+
+}
+
+#toya img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toya button {
+    font-size: 22px;
+    color: lightcoral;
+}
+
+#toyb {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+
+}
+
+#toyb img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toyb button {
+    font-size: 22px;
+    color: lightcoral;
+}
+
+#toyc {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toyc img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toyc button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toyd {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toyd img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toyd button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toye {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toye img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toye button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toyf {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toyf img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toyf button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#flex2 {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 70px;
+    
+}
+
+#toya1 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toya1 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toya1 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toyb2 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toyb2 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toyb2 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toyc3 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toyc3 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toyc3 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toyd4 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toyd4 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toyd4 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toye5 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toye5 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toye5 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+
+#toyf6 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toyf6 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toyf6 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#flex3 {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 70px;
+    
+}
+
+#toy11 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy11 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy11 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy12 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy12 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy12 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy13 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy13 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy13 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy14 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy14 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy14 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+
+#toy15 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy15 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy15 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+
+
+#toy16 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy16 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy16 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#flex4 {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 70px;
+    
+}
+
+#toy17 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy17 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy17 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy18 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy18 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy18 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy19 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy19 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy19 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy20 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy20 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy20 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy21 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy21 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy21 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy22 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy22 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy22 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy23 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy23 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy23 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy24 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy24 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy24 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy25 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy25 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy25 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy26 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy26 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy26 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy27 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy27 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy27 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy28 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy28 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy28 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy29 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy29 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy29 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy30 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy230 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy30 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy31 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy31 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy31 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy32 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy32 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy32 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy33 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy33 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy33 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}
+
+#toy34 {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+
+#toy34 img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#toy34 button {
+    font-size: 22px;
+    color: lightcoral;
+
+}

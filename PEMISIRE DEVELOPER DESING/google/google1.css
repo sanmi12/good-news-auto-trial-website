@@ -1,0 +1,21 @@
+#toy1 {
+    text-align: center;
+    margin-top: 21px;
+}
+#toy2 {
+    text-align: center;
+    margin-top: 20px;
+    
+}
+#toy3 {
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 220px;
+}
+#toy3 input {
+    border: none;
+}
+#toy4 {
+    text-align: center;
+}

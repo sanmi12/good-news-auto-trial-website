@@ -1,0 +1,65 @@
+.toy1 {
+    text-align: center;
+    
+}
+#toy2 {
+    width: 200px;
+    border: 1px solid black ;
+    text-align: center;
+     margin-bottom: 15px;
+     margin-left: 15px;
+     border-radius: 30px;
+     padding: 3px;
+}
+#toy2 a {
+    text-decoration: none;
+} 
+#toy3 {
+    text-align: center;
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 30px;
+    margin-left: 20px;
+    padding: 5px;
+}
+#toy3 a {
+    text-decoration: none;
+}
+#toy4 {
+    text-align: center;
+}
+.toy5 {text-align: center;
+}
+#toy6 {
+    width: 200px;
+    color: white;
+    text-align: center;
+    margin-left: 25px;
+     border-radius: 30px;
+     margin-top: 5px;
+    background-color: black;
+}
+.toy7 {
+    text-align: center;
+    margin-top: 5px;
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 200px;
+    margin-left: 20px;
+}
+.toy7 a {
+    text-decoration: none;
+}
+#toy8 {
+    text-align: center;
+}
+.container {
+    border: 1px solid black;
+    width: 250px;
+    margin-left: 400px;
+    
+}
+#toy9 {
+    text-align: center;
+    margin-top: 15px;
+}

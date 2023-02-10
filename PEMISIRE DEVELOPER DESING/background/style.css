@@ -1,0 +1,41 @@
+/* div {
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    background: url(pexels-hitarth-jadhav-220357.jpg);
+    background-size: cover;
+    color: blueviolet;
+    margin: auto;
+    display: flex;
+    flex-wrap: ;
+    
+}
+
+div h1{
+    margin-top: 100px;
+}
+
+img {
+    width: 200px;
+    height: 100px;
+} */
+#toy2 {
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+#toy2 div{
+  width: 400px;
+  height: 600px;
+  margin-top: 40px;
+}
+
+#toy2 div img{
+    width: 350px;
+    height: 350px;
+  }
+
+ 
